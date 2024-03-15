@@ -1,7 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=843e17e7_002D648f_002D4e60_002D99a8_002D5d6fb1061b26/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_Returns_Three_From_One_And_Two" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::9029A168-28A2-4D9C-98C4-2DF8024190E2::net8.0::DemoUnitTestMT23.Tests.Calculator_Tests.Add_Returns_Three_From_One_And_Two&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::9029A168-28A2-4D9C-98C4-2DF8024190E2::net8.0::DemoUnitTestMT23.Tests.Calculator_Tests.Add_Returns_Sum_Of_Two_Doubles&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C277F1AE-3273-412E-B8B8-C8DA225F1323::net8.0::TestProject1.Calculator_Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
